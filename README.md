@@ -26,4 +26,4 @@ For the `subql-starter` project, you can try to query with the following code to
 }
 ````
 # Result
-![Result](/src/Capture.png)
+![Result](/src/Capture.PNG)
